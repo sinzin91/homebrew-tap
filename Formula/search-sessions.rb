@@ -1,8 +1,8 @@
 class SearchSessions < Formula
   desc "Fast CLI to search across Claude Code and OpenClaw session history"
   homepage "https://github.com/sinzin91/search-sessions"
-  url "https://github.com/sinzin91/search-sessions/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "efa14ac867406923609310b412dd3771045c5e0e42f381a785e56afcaba37bb5"
+  url "https://github.com/sinzin91/search-sessions/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "ae3c06c81bc45ec7bf52e7e2a47ac3605b995579e35840ca196e8a3afa27d853"
   license "MIT"
 
   depends_on "rust" => :build
